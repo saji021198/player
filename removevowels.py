@@ -1,3 +1,4 @@
+f=int(input())
 a=str(input())
 b=list(a[ : :-1])
 for i in b:
